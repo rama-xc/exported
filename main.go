@@ -2,6 +2,6 @@ package exported
 
 import "fmt"
 
-func sayHello() {
+func SayHello() {
 	fmt.Print("hello from export")
 }
